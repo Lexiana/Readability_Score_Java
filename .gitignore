@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Readability Score (Java)/task/build/
+/Topics/Command-line arguments/Basic calculator/out/
+/Topics/Command-line arguments/Basic calculator/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Command-line arguments/Theory/out/
+/Topics/Command-line arguments/Theory/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Math library/Heron's formula/out/
+/Topics/Math library/Heron's formula/out/production/classes/
+/Topics/Math library/Pow/out/
+/Topics/Math library/Pow/out/production/classes/
+/Topics/Math library/Quadratic equation/out/
+/Topics/Math library/Quadratic equation/out/production/classes/
+/Topics/Math library/The angle between vectors/out/
+/Topics/Math library/The angle between vectors/out/production/classes/
